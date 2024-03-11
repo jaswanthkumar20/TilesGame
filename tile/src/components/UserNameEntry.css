@@ -1,0 +1,28 @@
+.heading {
+  text-decoration: underline;
+}
+
+.container {
+  border: 3px black solid;
+  width: 200px;
+  margin-left: 550px;
+  padding: 100px;
+}
+
+.name {
+  text-decoration: underline;
+}
+
+.inputName {
+  height: 20px;
+  width: 150px;
+}
+
+.button {
+  height: 30px;
+  width: 130px;
+  background-color: blue;
+  border: 0px;
+  margin: 20px;
+  color: white;
+}
